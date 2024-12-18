@@ -16,6 +16,6 @@
     "packages/*"
   ],
   "dependencies": {
-    "turbo": "2.1.4-canary.8"
+    "turbo": "2.3.4-canary.3"
   }
 }
